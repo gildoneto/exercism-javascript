@@ -7,4 +7,4 @@ Repositório de respostas dos exercícios da trilha JavaScript da plataforma [Ex
 03. [Freelancer Rates](./freelancer-rates/)
 04. [Annalyns Infiltration](./annalyns-infiltration/)
 05. [Poetry Club Door Policy](./poetry-club-door-policy/)
-06. []()
+06. [Elyses Enchantments](./elyses-enchantments/)
